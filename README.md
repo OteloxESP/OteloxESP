@@ -19,4 +19,4 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=OteloxESP&theme=tokyonight&&layout=compact&hide_border=true">
+
