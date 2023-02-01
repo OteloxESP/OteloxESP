@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/OteloxESP
+![Metrics](https://metrics.lecoq.io/OteloxESP)
